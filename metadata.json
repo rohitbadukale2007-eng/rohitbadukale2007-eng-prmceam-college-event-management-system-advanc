@@ -1,0 +1,6 @@
+{
+  "name": "PRMCEAM College Event Management System",
+  "description": "College Event Registration system with FIFO waiting list, automatic seat promotion, and admin attendance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
